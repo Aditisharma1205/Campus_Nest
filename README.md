@@ -1,4 +1,4 @@
-neophyte/
+campus_nest/
 │
 ├── app/
 │   ├── layout.tsx
